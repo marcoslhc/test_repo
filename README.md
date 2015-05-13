@@ -9,4 +9,4 @@ Repo for testing
 * test only pushhes
 * test new branch
 * Use server in KOA (third test)
-* launch server and inspect PR
+* launch server and inspect PR (try 2)
