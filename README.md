@@ -10,3 +10,4 @@ Repo for testing
 * test new branch
 * Use server in KOA (third test)
 * launch server and inspect PR (try 3)
+* add body parser (try 4)
