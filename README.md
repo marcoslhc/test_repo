@@ -6,3 +6,4 @@ Repo for testing
 * fixing errors in the response server
 * better inspection
 * now begins the inspection
+* test only pushhes
