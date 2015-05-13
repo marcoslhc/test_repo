@@ -8,4 +8,5 @@ Repo for testing
 * now begins the inspection
 * test only pushhes
 * test new branch
-* Use server in KOA (second test)
+* Use server in KOA (third test)
+* launch server and inspect PR
